@@ -7,7 +7,8 @@ def second_challenge
   }
 
   #code your solution here!
-groceries.values{  |items| items
-  items.collect{|food| food}
-}
+groceries.each do |category, item|
+  item.collect do |food|
+    food
+end
 end
