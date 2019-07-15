@@ -11,5 +11,5 @@ def second_challenge
 groceries.each do |category, item|
   puts food << item
 end
-food.vales
+food.values
 end
