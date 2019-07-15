@@ -8,7 +8,5 @@ def second_challenge
 
   #code your solution here!
 groceries.values
-values.collect do |category,items|
-  return category
-end
+
 end
