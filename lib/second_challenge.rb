@@ -8,6 +8,6 @@ def second_challenge
 
   #code your solution here!
   require 'pry'
-groceries.each_values
+groceries.each_value
 
 end
