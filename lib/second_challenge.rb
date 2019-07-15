@@ -8,6 +8,6 @@ def second_challenge
 
   #code your solution here!
   require 'pry'
-groceries[:dairy].values
+groceries.values
 
 end
