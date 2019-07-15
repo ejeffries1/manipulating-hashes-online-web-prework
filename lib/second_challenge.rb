@@ -9,7 +9,7 @@ def second_challenge
   #code your solution here!
   food = {}
 groceries.each do |category, item|
-  puts food << item
+  puts food.push item
 end
 food
 end
