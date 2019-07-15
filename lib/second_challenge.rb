@@ -9,5 +9,4 @@ def second_challenge
   #code your solution here!
 groceries.values do |items|
 end
-binding.pry
 end
