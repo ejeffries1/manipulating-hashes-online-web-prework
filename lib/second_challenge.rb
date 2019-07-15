@@ -7,5 +7,5 @@ def second_challenge
   }
 
   #code your solution here!
-groceries.each_value
+second_challenge.value
 end
