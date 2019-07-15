@@ -7,5 +7,5 @@ def second_challenge
   }
 
   #code your solution here!
-groceries.collect{  |items| item.values}
+groceries.collect{  |items| items.values}
 end
