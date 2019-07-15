@@ -7,5 +7,5 @@ def second_challenge
   }
 
   #code your solution here!
-[groceries].values_at
+groceries[:dairy].values_at
 end
