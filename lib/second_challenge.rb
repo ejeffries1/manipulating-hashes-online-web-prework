@@ -7,5 +7,7 @@ def second_challenge
   }
 
   #code your solution here!
-groceries.coect{  |items| items}ll
+groceries.collect{  |items| items
+  items.values{|food| food}
+}
 end
