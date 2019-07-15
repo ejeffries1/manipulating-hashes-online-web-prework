@@ -10,5 +10,6 @@ def second_challenge
 groceries.each do |category, item|
   item.collect do |food|
     food
+  end
 end
 end
