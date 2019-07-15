@@ -7,10 +7,7 @@ def second_challenge
   }
 
   #code your solution here!
-groceries.collect do |produce,item|
-  item.value do |food|
-    food
-  end
+groceries.values do |items|
 end
 binding.pry
 end
