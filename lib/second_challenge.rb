@@ -8,8 +8,8 @@ def second_challenge
 
   #code your solution here!
 groceries.each do |produce, items|
-  items.each do |food|
+  #items.each do |food|
     return items.values
-  end
+  #end
 end
 end
