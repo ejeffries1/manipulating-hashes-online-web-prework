@@ -7,9 +7,7 @@ def second_challenge
   }
 
   #code your solution here!
-groceries.collect do |items|
-  items.collect do |food|
-return food
-end
+groceries.collect do |produce,items|
+  groceries
 end
 end
