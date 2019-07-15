@@ -7,9 +7,9 @@ def second_challenge
   }
 
   #code your solution here!
-  food = {}
+  food = []
 groceries.each do |category, item|
-  puts food.push item
+  puts food << item
 end
 food
 end
