@@ -7,7 +7,6 @@ def second_challenge
   }
 
   #code your solution here!
-  require 'pry'
 groceries.each_value
-
+binding pry
 end
