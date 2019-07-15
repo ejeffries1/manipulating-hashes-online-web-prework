@@ -7,5 +7,6 @@ def second_challenge
   }
 
   #code your solution here!
-groceries[:dairy].values_at
+groceries.collect do |produce,item|
+end
 end
